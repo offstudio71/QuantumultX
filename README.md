@@ -5,4 +5,4 @@
 
 **项目作者：offstudio71**<br/>
 **电报频道：https://t.me/sharehub_offstudio**<br/>
-**Quantumult X配置：[长按复制链接](https://ghproxy.com/https://raw.githubusercontent.com/chxm1023/Script_X/main/Quantumult_X.conf)**<br/>
+**Quantumult X配置：[长按复制链接](https://ghproxy.com/https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf)**<br/>
