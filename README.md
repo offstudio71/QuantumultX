@@ -1,7 +1,8 @@
 [![Stars](https://img.shields.io/github/stars/offstudio71/offstudio71)](https://github.com/offstudio71/offstudio71/stargazers)
 [![Fork](https://img.shields.io/github/forks/offstudio71/offstudio71)](https://github.com/doffstudio71/offstudio71/network/members)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/sharehub_offstudio)
-
+[![](https://img.shields.io/github/last-commit/offstudio71/offstudio71)](https://github.com/offstudio71)
+[![](https://img.shields.io/github/followers/offstudio71?label=follow&style=social)](https://github.com/offstudio71)
 
 
 # 访问量
