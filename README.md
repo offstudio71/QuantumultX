@@ -10,7 +10,7 @@
 ### Telegram 通知頻道 👉🏻[off studioの自留地](https://t.me/sharehub_offstudio)👈🏻
 ![Visitor Count](https://profile-counter.glitch.me/offstudio71_QuantumultX/count.svg)
 
-[![offstudio71 GitHub stats](https://github-readme-stats.vercel.app/apioffstudio71=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![offstudio71 GitHub stats](https://github-readme-stats.vercel.app/api?username=offstudio71&show_icons=true&count_private=true&theme=vue)
 
 ## 1️⃣QuantumultX 懒人配置：
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
