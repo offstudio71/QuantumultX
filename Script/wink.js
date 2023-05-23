@@ -13,7 +13,7 @@ hostname = *meitu*
 
 [rewrite_local]
 
-^http[s]?:\/\/api-((winkcut)|(sub))\.meitu\.com\/(user\/show|v2\/user\/vip_info_by_group).json url script-response-body https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Scripts/wink.js
+^http[s]?:\/\/api-((winkcut)|(sub))\.meitu\.com\/(user\/show|v2\/user\/vip_info_by_group).json url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/wink.js
 
 ***************************************/
 
