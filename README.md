@@ -16,8 +16,8 @@
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 
 ## QuantumultX 分流：
-* [*@DivineEngine*](https://github.com/DivineEngine) 提供的的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-* [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
+* [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## QuantumultX 重写：
 <table>
