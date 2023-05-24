@@ -16,7 +16,7 @@
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 
 ## 2️⃣QuantumultX 分流：
-* [*@DivineEngine*](https://github.com/DivineEngine) 的 [***Quantumult X 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
+* [*@DivineEngine*](https://github.com/DivineEngine) 的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
 * [*@blackmatrix7*](https://github.com/blackmatrix7) 的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣QuantumultX 重写：
@@ -28,12 +28,14 @@
   	<tr>
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
     </tr>
+</table>
   
 ## 4️⃣QuantumultX 脚本Task：
 - [x] 喵喵记账每日签到 [*mmjz.js*](https://github.com/ddgksf2013/Scripts/raw/master/mmjz.js)
 - [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
   
 ## 5️⃣QuantumultX 图标库
+
 
 | 序号 | 点击名称快捷添加图标订阅 | 作者 |
 | :----: | :---- | :----: |
@@ -53,4 +55,4 @@
 
 以下排名不分先后
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson)
+[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@Peng-YM*](https://github.com/Peng-YM) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@Chavyleung*](https://github.com/chavyleung) [*@Koolson*](https://github.com/Koolson) [*@chxm1023*](https://github.com/chxm1023)
