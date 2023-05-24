@@ -15,10 +15,12 @@
 
 ## QuantumultX 懒人配置：
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
+* 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
+> 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ## QuantumultX 分流：
-* 参考 [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-* 或者 [*@Blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* [***神机规则***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
+* [***BM7规则***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## QuantumultX 重写：
 <table>
@@ -60,8 +62,8 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 | 5  | [Orz-3图标库（mini color）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FOrz-3%2Fmini%2Fmaster%2FminiColor.json%22%0A%5D) | Orz-3 |
   
 ## 其他资源：
-* 订阅转换[***点我打开***](https://acl4ssr-sub.github.io/)
-* TrollStore 永久签名[***点我打开***](https://github.com/opa334/TrollStore)
+* [***订阅转换***](https://acl4ssr-sub.github.io/)
+* [***TrollStore 永久签名***](https://github.com/opa334/TrollStore)
 
 ## Telegram 资源分享頻道：
 * 加入[***offstudioの自留地***](https://t.me/sharehub_offstudio)，获取更多实用资源
