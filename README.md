@@ -16,8 +16,8 @@
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 
 ## QuantumultX 分流：
-* [*@DivineEngine*](https://github.com/DivineEngine) 的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-* [*@blackmatrix7*](https://github.com/blackmatrix7) 的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* [*@DivineEngine*](https://github.com/DivineEngine) 提供的的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
+* [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## QuantumultX 重写：
 <table>
@@ -64,24 +64,24 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 
 ## 机场推荐：
 <table>
-    </th> <th> 序号 </th> <th> 链接 </th> <th> 分类 </th> </tr >
+    </th> <th> 分类 </th> <th> 链接 </th> <th> 套餐概括 </th> </tr >
     <tr>
-		<td > 1 </td> <td ><a href="https://home.xsus.me/index.php#/register?code=8SzgfUGc"><em>XSUS</em></a></td><td>性价比机场（中转）</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://home.xsus.me/index.php#/register?code=8SzgfUGc"><em>XSUS</em></a></td><td>8元300G/16元500G/流量包20元240G</td>
     </tr>	
     <tr>
-		<td > 2 </td> <td ><a href="https://xfltd.org/index.php#/register?code=68eOUrsB"><em>养鸡场</em></a></td><td>性价比机场（中转）</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://xfltd.org/index.php#/register?code=68eOUrsB"><em>养鸡场</em></a></td><td>1元17G/7元150G/10元120G不限时套餐</td>
     </tr>
     <tr>
-		<td > 3 </td> <td ><a href="https://reborn.kaochang.ltd/#/register?code=nMmDTYKp"><em>烤肠</em></a></td><td>性价比机场（中转）</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://reborn.kaochang.ltd/#/register?code=nMmDTYKp"><em>烤肠</em></a></td><td>8元100G/12元450G/18元750G</td>
     </tr>
     <tr>
-		<td > 4 </td> <td ><a href="https://xn--mesr8b36x.company/#/register?code=hk6Q2Pgh"><em>大机场</em></a></td><td>低价机场（直连）</td>
+		<td >低价机场（直连）</td> <td ><a href="https://xn--mesr8b36x.company/#/register?code=hk6Q2Pgh"><em>大机场</em></a></td><td>4.99元1024G/6.99元2048G/9.99元4096G</td>
     </tr>
     <tr>
-		<td > 5 </td> <td ><a href="https://xn--4gq62f52gdss.com/#/register?code=0vdZLLt3"><em>一元机场</em></a></td><td>低价机场（直连）</td>
+		<td >低价机场（直连）</td> <td ><a href="https://xn--4gq62f52gdss.com/#/register?code=0vdZLLt3"><em>一元机场</em></a></td><td>4元400G/6元8000G/年付11元每月50G</td>
     </tr>
     <tr>
-		<td > 6 </td> <td ><a href="https://v3.nanoport.xyz/#/register?code=DDZUMdYr"><em>nanoPort</em></a></td><td>低价机场（直连）</td>
+		<td >低价机场（直连）</td> <td ><a href="https://v3.nanoport.xyz/#/register?code=DDZUMdYr"><em>nanoPort</em></a></td><td>直连2元1000G/中转3.98元257G/6元999G</td>
     </tr>
 </table>
 
@@ -89,4 +89,4 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 
 以下排名不分先后，感谢各位大佬的无私分享
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@Peng-YM*](https://github.com/Peng-YM) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@Chavyleung*](https://github.com/chavyleung) [*@Koolson*](https://github.com/Koolson) [*@chxm1023*](https://github.com/chxm1023)
+[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@Peng-YM*](https://github.com/Peng-YM) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@ddgksf2013*](https://github.com/ddgksf2013) [*@Chavyleung*](https://github.com/chavyleung) [*@Koolson*](https://github.com/Koolson) [*@chxm1023*](https://github.com/chxm1023)
