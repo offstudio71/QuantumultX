@@ -5,9 +5,8 @@
 [![](https://img.shields.io/github/followers/offstudio71?label=follow&style=social)](https://github.com/offstudio71)
 
 
-# 搬运大佬脚本
+# 收集、整理各位大佬的实用规则
 
-### Telegram 资源分享頻道 👉🏻[offstudioの自留地](https://t.me/sharehub_offstudio)👈🏻
 ![Visitor Count](https://profile-counter.glitch.me/offstudio71_QuantumultX/count.svg)
 
 ![offstudio71's GitHub stats](https://github-readme-stats.vercel.app/api?username=offstudio71&show_icons=true&count_private=true&theme=vue)
@@ -16,8 +15,8 @@
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 
 ## QuantumultX 分流：
-* [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-* [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* 参考 [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
+* 或者 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## QuantumultX 重写：
 <table>
@@ -47,7 +46,7 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 - [x] JDHelloWorld脚本订阅 [*QX.json*](https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/iOS/QX.json)
 - [x] shufflewzc脚本订阅 [*qx.json*](https://raw.githubusercontent.com/shufflewzc/faker/main/qx.json)
   
-## QuantumultX 图标库
+## QuantumultX 图标库：
 
 
 | 序号 | 点击名称快捷添加图标订阅 | 作者 |
@@ -61,6 +60,9 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 ## 其他资源：
 * 订阅转换[***点我打开***](https://acl4ssr-sub.github.io/)
 * TrollStore 永久签名[***点我打开***](https://github.com/opa334/TrollStore)
+
+## Telegram 资源分享頻道：
+* 加入[***offstudioの自留地***](https://t.me/sharehub_offstudio)，获取更多实用资源
 
 ## 机场推荐：
 <table>
