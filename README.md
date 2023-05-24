@@ -7,34 +7,44 @@
 
 # 访问量
 
-### Telegram 通知頻道 👉🏻[off studioの自留地](https://t.me/sharehub_offstudio)👈🏻
+### Telegram 通知頻道 👉🏻[offstudioの自留地](https://t.me/sharehub_offstudio)👈🏻
 ![Visitor Count](https://profile-counter.glitch.me/offstudio71_QuantumultX/count.svg)
 
-[![offstudio71's GitHub stats](https://github-readme-stats.vercel.app/api?username=offstudio71&show_icons=true&count_private=true&theme=vue)
+![offstudio71's GitHub stats](https://github-readme-stats.vercel.app/api?username=offstudio71&show_icons=true&count_private=true&theme=vue)
 
-## 1️⃣QuantumultX 懒人配置：
+## QuantumultX 懒人配置：
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 
-## 2️⃣QuantumultX 分流：
+## QuantumultX 分流：
 * [*@DivineEngine*](https://github.com/DivineEngine) 的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-* [*@blackmatrix7*](https://github.com/blackmatrix7) 的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* [*@blackmatrix7*](https://github.com/blackmatrix7) 的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
-## 3️⃣QuantumultX 重写：
+## QuantumultX 重写：
 <table>
     </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
 		<td > 1 </td> <td > APP解锁合集 </td> <td ><a href="https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.conf"><em>APP解锁合集.conf</em></a></td><td>chxm1023</td>
     </tr>	
-  	<tr>
-		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
+    <tr>
+		<td > 2 </td> <td > 喜马拉雅会员 </td> <td ><a
+href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmlysvip3.js"><em>xmlysvip3.js</em></a></td><td>WeiRenO</td>
+    </tr>
+    <tr>
+		<td > 3 </td> <td > Wink解锁 </td> <td ><a
+href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wink.js"><em>wink.js</em></a></td><td>WeiRenO</td>
+    </tr>
+    <tr>
+		<td > 4 </td> <td > 网易云音乐听vip </td> <td ><a
+href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.js</em></a></td><td>WeiRenO</td>
     </tr>
 </table>
   
-## 4️⃣QuantumultX 脚本Task：
-- [x] 喵喵记账每日签到 [*mmjz.js*](https://github.com/ddgksf2013/Scripts/raw/master/mmjz.js)
-- [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
+## QuantumultX 脚本Task：
+- [x] 京东 [*QX.json*](https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/iOS/QX.json)
+- [x] KOP-XIAO [*UI-Action.json*](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/UI-Action.json)
+- [x] Peng-YM [*task.json*](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/task.json)
   
-## 5️⃣QuantumultX 图标库
+## QuantumultX 图标库
 
 
 | 序号 | 点击名称快捷添加图标订阅 | 作者 |
@@ -45,13 +55,10 @@
 | 4  | [Orz-3图标库（mini style）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2FOrz-3%2Fmini%2Fraw%2Fmaster%2Fmini.json%22%0A%5D) | Orz-3 |
 | 5  | [Orz-3图标库（mini color）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FOrz-3%2Fmini%2Fmaster%2FminiColor.json%22%0A%5D) | Orz-3 |
   
-## 6️⃣Awesome Resource：
-* 屏蔽IOS更新[***点我***](https://initnil.com/tvOS.mobileconfig)
-* 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
-* Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
-* IOS手机端应用推荐[*Appraven.net*](https://appraven.net/openLink.php?listId=60dda9d80a73da27bb33d44d)
+## Awesome Resource：
+* 屏蔽IOS更新[***点我***](https://app.initnil.com/tvOS.mobileconfig)
 
-## 7️⃣特别感谢：
+## 特别感谢：
 
 以下排名不分先后
 
