@@ -11,12 +11,14 @@
 
 ![offstudio71's GitHub stats](https://github-readme-stats.vercel.app/api?username=offstudio71&show_icons=true&count_private=true&theme=vue)
 
+> ***本库内容只负责测试和更新，不负责维护***
+
 ## QuantumultX 懒人配置：
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 
 ## QuantumultX 分流：
 * 参考 [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***神机规则 分流***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-* 或者 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* 或者 [*@Blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***QuantumultX 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## QuantumultX 重写：
 <table>
@@ -91,4 +93,27 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 
 以下排名不分先后，感谢各位大佬的无私分享
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@Peng-YM*](https://github.com/Peng-YM) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@ddgksf2013*](https://github.com/ddgksf2013) [*@Chavyleung*](https://github.com/chavyleung) [*@Koolson*](https://github.com/Koolson) [*@chxm1023*](https://github.com/chxm1023)
+[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script)
+[*@DivineEngine*](https://github.com/DivineEngine)
+[*@Peng-YM*](https://github.com/Peng-YM)
+[*@KOP-XIAO*](https://github.com/KOP-XIAO)
+[*@NobyDa*](https://github.com/NobyDa)
+[*@Qure*](https://github.com/Koolson/Qure)
+[*@Orz-3*](https://github.com/Orz-3)
+[*@ddgksf2013*](https://github.com/ddgksf2013)
+[*@Chavyleung*](https://github.com/chavyleung)
+[*@Koolson*](https://github.com/Koolson)
+[*@chxm1023*](https://github.com/chxm1023)
+[*@limbopro*](https://github.com/limbopro)
+[*@Hackl0us*](https://github.com/Hackl0us)
+[*@VirgilClyne*](https://github.com/VirgilClyne)
+[*@WeiRen0*](https://github.com/WeiRen0)
+[*@JDHelloWorld*](https://github.com/JDHelloWorld)
+[*@deezertidal*](https://github.com/deezertidal)
+[*@zwf234*](https://github.com/zwf234)
+[*@app2smile*](https://github.com/app2smile)
+[*@I-am-R-E*](https://github.com/I-am-R-E)
+[*@zqzess*](https://github.com/zqzess)
+[*@yqc007*](https://github.com/yqc007)
+[*@89996462*](https://github.com/89996462)
+[*@Loyalsoldier*](https://github.com/Loyalsoldier)
