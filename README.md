@@ -27,15 +27,15 @@
     </tr>	
     <tr>
 		<td > 2 </td> <td > 喜马拉雅会员 </td> <td ><a
-href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmlysvip3.js"><em>xmlysvip3.js</em></a></td><td>WeiRenO</td>
+href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmlysvip3.js"><em>xmlysvip3.js</em></a></td><td>WeiRen0</td>
     </tr>
     <tr>
 		<td > 3 </td> <td > Wink解锁 </td> <td ><a
-href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wink.js"><em>wink.js</em></a></td><td>WeiRenO</td>
+href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wink.js"><em>wink.js</em></a></td><td>WeiRen0</td>
     </tr>
     <tr>
 		<td > 4 </td> <td > 网易云音乐听vip </td> <td ><a
-href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.js</em></a></td><td>WeiRenO</td>
+href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.js</em></a></td><td>WeiRen0</td>
     </tr>
 </table>
   
@@ -58,7 +58,7 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 | 4  | [Orz-3图标库（mini style）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2FOrz-3%2Fmini%2Fraw%2Fmaster%2Fmini.json%22%0A%5D) | Orz-3 |
 | 5  | [Orz-3图标库（mini color）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FOrz-3%2Fmini%2Fmaster%2FminiColor.json%22%0A%5D) | Orz-3 |
   
-## Awesome Resource：
+## 其他资源：
 * 订阅转换[***点我打开***](https://acl4ssr-sub.github.io/)
 * TrollStore 永久签名[***点我打开***](https://github.com/opa334/TrollStore)
 
