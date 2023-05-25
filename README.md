@@ -11,12 +11,12 @@
 
 ![offstudio71's GitHub stats](https://github-readme-stats.vercel.app/api?username=offstudio71&show_icons=true&count_private=true&theme=vue)
 
-> ***本库内容只负责测试和更新，不负责维护***
+> ***本库内容只负责搬运、测试和更新，不负责维护***
 
 ## QuantumultX 懒人配置：
 * 自用QX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/offstudio71/QuantumultX/main/Quantumult_X.conf) 
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
-> 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
+> 详细的带图指南请参考 [*@Shawn*](https://github.com/KOP-XIAO) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ## QuantumultX 分流：
 * [***神机规则***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
@@ -78,7 +78,7 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 		<td >性价比机场（中转）</td> <td ><a href="https://xfltd.org/index.php#/register?code=68eOUrsB"><em>养鸡场</em></a></td><td>1元17G/7元150G/10元120G不限时套餐</td>
     </tr>
     <tr>
-		<td >性价比机场（中转）</td> <td ><a href="https://reborn.kaochang.ltd/#/register?code=nMmDTYKp"><em>烤肠</em></a></td><td>8元100G/12元450G/18元750G</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://invite.efshop.cc/#/register?code=rnEgmleJ"><em>EFCloud</em></a></td><td>9元350G/24元1024G/20元100G不限时套餐</td>
     </tr>
     <tr>
 		<td >低价机场（直连）</td> <td ><a href="https://xn--mesr8b36x.company/#/register?code=hk6Q2Pgh"><em>大机场</em></a></td><td>4.99元1024G/6.99元2048G/9.99元4096G</td>
@@ -87,7 +87,7 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 		<td >低价机场（直连）</td> <td ><a href="https://xn--4gq62f52gdss.com/#/register?code=0vdZLLt3"><em>一元机场</em></a></td><td>4元400G/6元8000G/年付11元每月50G</td>
     </tr>
     <tr>
-		<td >低价机场（直连）</td> <td ><a href="https://v3.nanoport.xyz/#/register?code=DDZUMdYr"><em>nanoPort</em></a></td><td>直连2元1000G/中转3.98元257G/6元999G</td>
+		<td >低价机场（直连）</td> <td ><a href="https://xn--ehq00hgtfdmt.xyz/#/register?code=HmHlOIDX"><em>三分机场</em></a></td><td>年付9.5元每月200G/月付5元500G/18元1000G不限时套餐</td>
     </tr>
 </table>
 
@@ -95,16 +95,15 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 
 以下排名不分先后，感谢各位大佬的无私分享
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script)
+[*@Blackmatrix7*](https://github.com/blackmatrix7)
 [*@DivineEngine*](https://github.com/DivineEngine)
 [*@Peng-YM*](https://github.com/Peng-YM)
 [*@KOP-XIAO*](https://github.com/KOP-XIAO)
 [*@NobyDa*](https://github.com/NobyDa)
-[*@Qure*](https://github.com/Koolson/Qure)
+[*@Koolson*](https://github.com/Koolson)
 [*@Orz-3*](https://github.com/Orz-3)
 [*@ddgksf2013*](https://github.com/ddgksf2013)
 [*@Chavyleung*](https://github.com/chavyleung)
-[*@Koolson*](https://github.com/Koolson)
 [*@chxm1023*](https://github.com/chxm1023)
 [*@limbopro*](https://github.com/limbopro)
 [*@Hackl0us*](https://github.com/Hackl0us)
