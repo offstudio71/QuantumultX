@@ -19,8 +19,8 @@
 > 详细的带图指南请参考 [*@Shawn*](https://github.com/KOP-XIAO) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ## QuantumultX 分流：
-* [***神机规则***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
 * [***BM7规则***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+* [***神机规则***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
 
 ## QuantumultX 重写：
 <table>
@@ -40,6 +40,10 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wink.js"><em>wink.j
 		<td > 4 </td> <td > 网易云音乐听vip </td> <td ><a
 href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.js</em></a></td><td>WeiRen0</td>
     </tr>
+    <tr>
+		<td > 5 </td> <td > 小红书增强 </td> <td ><a
+href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>
+    </tr>
 </table>
   
 ## QuantumultX 脚本Task：
@@ -47,7 +51,6 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 - [x] Peng-YM脚本订阅 [*task.json*](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/task.json)
 - [x] zqzess脚本订阅 [*taskgallery.json*](https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/task/zqzess_taskgallery.json)
 - [x] 奇心脚本订阅 [*qixin.json*](https://qxnav.com/rules/QuantumultX/qixin.json)
-- [x] JDHelloWorld脚本订阅 [*QX.json*](https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/iOS/QX.json)
 - [x] shufflewzc脚本订阅 [*qx.json*](https://raw.githubusercontent.com/shufflewzc/faker/main/qx.json)
   
 ## QuantumultX 图标库：
@@ -72,22 +75,22 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 <table>
     </th> <th> 分类 </th> <th> 链接 </th> <th> 套餐概括 </th> </tr >
     <tr>
-		<td >性价比机场（中转）</td> <td ><a href="https://home.xsus.me/index.php#/register?code=8SzgfUGc"><em>XSUS</em></a></td><td>8元300G/16元500G/流量包20元240G</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://home.xsus.me/index.php#/register?code=8SzgfUGc"><em>XSUS</em></a></td><td>月付8元300G/月付16元500G/不限时套餐20元240G</td>
     </tr>	
     <tr>
-		<td >性价比机场（中转）</td> <td ><a href="https://xfltd.org/index.php#/register?code=68eOUrsB"><em>养鸡场</em></a></td><td>1元17G/7元150G/10元120G不限时套餐</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://xfltd.org/index.php#/register?code=68eOUrsB"><em>养鸡场</em></a></td><td>月付1元17G/月付7元150G/不限时套餐10元120G</td>
     </tr>
     <tr>
-		<td >性价比机场（中转）</td> <td ><a href="https://invite.efshop.cc/#/register?code=rnEgmleJ"><em>EFCloud</em></a></td><td>9元350G/24元1024G/20元100G不限时套餐</td>
+		<td >性价比机场（中转）</td> <td ><a href="https://invite.efshop.cc/#/register?code=rnEgmleJ"><em>EFCloud</em></a></td><td>月付9元350G/月付24元1024G/不限时套餐20元100G</td>
     </tr>
     <tr>
-		<td >低价机场（直连）</td> <td ><a href="https://xn--mesr8b36x.company/#/register?code=hk6Q2Pgh"><em>大机场</em></a></td><td>4.99元1024G/6.99元2048G/9.99元4096G</td>
+		<td >低价机场（直连）</td> <td ><a href="https://xn--mesr8b36x.company/#/register?code=hk6Q2Pgh"><em>大机场</em></a></td><td>月付4.99元1024G/月付6.99元2048G/月付9.99元4096G</td>
     </tr>
     <tr>
-		<td >低价机场（直连）</td> <td ><a href="https://xn--4gq62f52gdss.com/#/register?code=0vdZLLt3"><em>一元机场</em></a></td><td>4元400G/6元8000G/年付11元每月50G</td>
+		<td >低价机场（直连）</td> <td ><a href="https://xn--4gq62f52gdss.com/#/register?code=0vdZLLt3"><em>一元机场</em></a></td><td>年付11元每月50G/月付4元400G/月付6元8000G</td>
     </tr>
     <tr>
-		<td >低价机场（直连）</td> <td ><a href="https://xn--ehq00hgtfdmt.xyz/#/register?code=HmHlOIDX"><em>三分机场</em></a></td><td>年付9.5元每月200G/月付5元500G/18元1000G不限时套餐</td>
+		<td >低价机场（直连）</td> <td ><a href="https://xn--ehq00hgtfdmt.xyz/#/register?code=HmHlOIDX"><em>三分机场</em></a></td><td>年付9.5元每月200G/月付5元500G/不限时套餐18元1000G</td>
     </tr>
 </table>
 
@@ -97,6 +100,7 @@ href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.j
 
 [*@Blackmatrix7*](https://github.com/blackmatrix7)
 [*@DivineEngine*](https://github.com/DivineEngine)
+[*@ACL4SSR*](https://github.com/ACL4SSR)
 [*@Peng-YM*](https://github.com/Peng-YM)
 [*@KOP-XIAO*](https://github.com/KOP-XIAO)
 [*@NobyDa*](https://github.com/NobyDa)
