@@ -21,30 +21,6 @@
 ## QuantumultX 分流：
 * [***BM7规则***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 * [***神机规则***](https://github.com/DivineEngine/Profiles/tree/master/Surge)
-
-## QuantumultX 重写：
-<table>
-    </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
-    <tr>
-		<td > 1 </td> <td > APP解锁合集 </td> <td ><a href="https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.conf"><em>APP解锁合集.conf</em></a></td><td>chxm1023</td>
-    </tr>	
-    <tr>
-		<td > 2 </td> <td > 喜马拉雅会员 </td> <td ><a
-href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmlysvip3.js"><em>xmlysvip3.js</em></a></td><td>WeiRen0</td>
-    </tr>
-    <tr>
-		<td > 3 </td> <td > Wink解锁 </td> <td ><a
-href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wink.js"><em>wink.js</em></a></td><td>WeiRen0</td>
-    </tr>
-    <tr>
-		<td > 4 </td> <td > 网易云音乐听vip </td> <td ><a
-href="https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js"><em>wyun.js</em></a></td><td>WeiRen0</td>
-    </tr>
-    <tr>
-		<td > 5 </td> <td > 小红书增强 </td> <td ><a
-href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>
-    </tr>
-</table>
   
 ## QuantumultX 脚本Task：
 - [x] KOP-XIAO脚本订阅 [*UI-Action.json*](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/UI-Action.json)
@@ -122,3 +98,7 @@ href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"
 [*@yqc007*](https://github.com/yqc007)
 [*@89996462*](https://github.com/89996462)
 [*@Loyalsoldier*](https://github.com/Loyalsoldier)
+[*@Privacy protection tools*](https://github.com/privacy-protection-tools)
+[*@w37fhy*](https://github.com/w37fhy)
+[*@fmz200*](https://github.com/fmz200)
+[*@Semporia*](https://github.com/Semporia)
